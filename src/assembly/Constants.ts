@@ -1,0 +1,1 @@
+export const MODULE_EXECUTION_TYPE_ID = 2;
